@@ -42,6 +42,8 @@ I’m currently building a full-stack fundraising platform using **Django (backe
 ---
 
 ### 📫 Let’s Connect
+- 🌐 Portfolio: https://mmokaus.github.io
+- 💼 LinkedIn: https://linkedin.com/in/okozlovskaya
+- 📧 Email: ledromaus@gmail.com
 
-- Email: ledromaus@gmail.com
 
