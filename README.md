@@ -1,4 +1,4 @@
-![Banner](./GitHub_banner_OK.png)
+![Banner](./GitHub_Banner_OK.png)
 
 # Hi, I’m Olga 👋
 
