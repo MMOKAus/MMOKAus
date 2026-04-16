@@ -22,7 +22,7 @@ I’m currently building a full-stack fundraising platform using **Django (backe
 - Frontend: React, JavaScript, HTML, CSS (in progress)
 - Focus: accessibility, responsive UI, clean component structure
 
-🔗 Repo: *(link to PawFund repos once public)*
+🔗 Repo: *[PawFund_crowdfunding project](https://github.com/MMOKAus/PawFund_crowdfunding_frontend)*
 
 ---
 
